@@ -8,7 +8,7 @@
       O Dr.Educamaster é um sistema de avaliação institucional para faculdades privadas nacionais e internacionais. Tem como o principal objetivo auxiliar o aluno a escolher qual faculdade cursar, por meio das avaliações e informações presente no nosso sistema.
     </li>
     <li>
-      A penas o todo o design e a documentação foram feitas. Tem mais telas do projeto no <a href="https://www.figma.com/file/TTsQmmHVDkwwPlwTbeEB7d/Sistema-de-avalia%C3%A7%C3%A3o-instituicional">Figma</a>.
+      Apenas o todo o design e a documentação foram solicitadas. Tem mais telas do projeto no <a href="https://www.figma.com/file/TTsQmmHVDkwwPlwTbeEB7d/Sistema-de-avalia%C3%A7%C3%A3o-instituicional">Figma</a>.
     </li>
     <li>
       Link da documentação: <a href="UNIVERSIDADE VEIGA DE ALMEIDA.docx" download="UNIVERSIDADE VEIGA DE ALMEIDA.docx">.docx</a>.
